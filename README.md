@@ -1,6 +1,7 @@
 ####
 ###########
 ###### sonarqube integration modification
+### quality gate addition
 ##### second modification updated git branch
 ### Prerequisites
 - JDK 1.8 or later
